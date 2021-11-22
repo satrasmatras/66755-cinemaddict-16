@@ -1,7 +1,7 @@
 # Проект «Киноман»
 
 * Студент: [Денис Горшков](https://up.htmlacademy.ru/ecmascript/16/user/66755).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Вохмянин](https://htmlacademy.ru/profile/id530823).
 
 ---
 
